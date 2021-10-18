@@ -1,4 +1,4 @@
-# Vue-cli template (Vue.js 3)
+# Clash of Clans (Vue.js 3)
 
 ## Demo:
 https://redbignow.github.io/vue-3-clash-of-clans/dist/index.html
